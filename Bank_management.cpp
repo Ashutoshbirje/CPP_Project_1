@@ -1,13 +1,3 @@
-// 3. Create menu driven program for Simple Bank Account:
-// Write a C++ class named 'Account' with data members:
-// ‘name’, 'accountNumber' and 'balance'.
-// Include member functions to do the following:
-//  To assign initial values.
-//  To deposit an amount.
-//  To withdraw an amount after checking the balance.
-// (Ensure that the balance
-// remains positive)
-//  To display account number and balance
 #include <iostream>
 using namespace std;
 class Account;
